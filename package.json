@@ -12,28 +12,9 @@
   "keywords": ["ai", "marketing", "affiliate", "automation"],
   "author": "Твой Никнейм",
   "license": "MIT",
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
   "dependencies": {
-    "crypto-js": "^4.1.1",
-    "@supabase/supabase-js": "^2.35.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1"
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.4.16",
-    "postcss": "^8.4.31",
-    "tailwindcss": "^3.3.5"
   }
 }
